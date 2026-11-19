@@ -1,0 +1,1002 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "about": "Names, descriptions and grades are the official PlayStation 5 list, shown exactly as PlayStation publishes them. Every guide is written for this app and cites its sources. Progress is stored only in your browser.",
+ "roadmap": [
+  {
+   "stage": 1,
+   "title": "Chapter 1, carefully",
+   "summary": "Play the opening chapter and do the one thing that cannot wait: the first meditation spot at home, which is offered during Chapter 1 and is gone for good once the chapter ends. Meet Cal when he texts, and start scanning every new vehicle you climb into — that habit pays off hours later.",
+   "hours": "Opening hours"
+  },
+  {
+   "stage": 2,
+   "title": "The story: Chapters 2 to 5",
+   "summary": "Finish the campaign. Every story trophy is unmissable, and free roam waits after the credits, but story missions cannot be replayed — so keep manual saves in the game's 15 slots before big missions. Pick up the tools the chapters hand you: the Scooter Bros app in Chapter 2, the Snap Gun in Chapter 3, the bank vaults in Chapter 4.",
+   "hours": "About 60-80 hours with side content"
+  },
+  {
+   "stage": 3,
+   "title": "Strangers and character quests",
+   "summary": "Clear the stranger strands: the eight that count toward Strangers & Freaks, plus the separate finales for Andy, Billy, Kenton, Randy and Tyrone, and Bret's hunting line. Play chains as they appear rather than banking them all — one launch report links some chains to story progress, and keeping up costs nothing.",
+   "hours": "About 10 hours"
+  },
+  {
+   "stage": 4,
+   "title": "Activities and skills",
+   "summary": "The tracked skill grinds, done while the story has your hands warm: 42 shooting-range golds, 250 stunts, one drone-race win at each of 14 spots, 20 different race wins, 50 challenges, one arcade clear, and a sample of all 9 activity types.",
+   "hours": "Spread across the run"
+  },
+  {
+   "stage": 5,
+   "title": "Free-roam cleanup",
+   "summary": "The map-wide sweep: card sets, WAiNK spots, vehicle discoveries, clearing the fog from all 52 areas, five bank vaults, one illegal operation per gang, the money totals, all 8 purchasable garages, and the handful of secret trophies whose triggers are still being pinned down.",
+   "hours": "The long tail"
+  },
+  {
+   "stage": 6,
+   "title": "100% and the platinum",
+   "summary": "Close out A Long Road against the in-game checklist (Progress, then Stats, then 100% Completion). It asks for broad coverage, not literally everything, and nothing on it can be missed. The platinum, Vice Got a Price!, follows automatically the moment the other 54 are earned. Launch coverage puts the whole run at roughly 200 hours and a 4/10 difficulty.",
+   "hours": "About 200 hours in total"
+  }
+ ],
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 6,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "The platinum. It unlocks on its own the moment the other 54 trophies are all earned, so there is nothing separate to do — treat it as the finish line of the roadmap in this guide. Plan on roughly 200 hours and a single playthrough: there are no online trophies, no difficulty settings and no mission replay, so everything is earned in one long run through Leonida, with free roam waiting after the credits for whatever is left.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy, impossible to miss. It pops for finishing Gone Fishing, the opening mission of Chapter 1, which introduces Jason and the basics of movement, driving and shooting. Play the introduction at your own pace; if you are chasing the platinum, start scanning every new vehicle you climb into from here on — that habit pays off much later for Whip It Good.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Chapter 1, and it cannot be missed. One thing to do before the chapter closes: the first meditation spot for Positive Mental Attitude is offered at home during Chapter 1 and is gone for good afterwards, and it is the one spot linked to the game's only suspected missable. Meditate there when it appears, and keep a manual save from this chapter — there is no mission replay later.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Chapter 2; it cannot be missed. Chapter 2 is also when several long grinds open up: Moses hands over the Scooter Bros app (needed for On the Spot), and Bret's hunting quests and Billy's Thrillbilly jobs unlock. Jason and Lucia can be played together from here, which the final meditation spot for Positive Mental Attitude requires.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Chapter 3; it cannot be missed. During this chapter Yasmani's jobs introduce the Snap Gun, the quiet way into a jewelry store's back door — remember it for Sneakthief, which is far easier with that tool than improvising a stealth robbery cold. The Cartel Heist mission in this chapter is also where Break the Bank is earned.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Chapter 4; it cannot be missed. An optional mission in this chapter opens up the bank vaults, which two trophies depend on: Maximum Withdrawal wants five vaults robbed and escaped, and a vault job you get away from also counts for A Classic Blitz Play. Vaults always bring a four-star response, so keep a fast bike staged nearby before you start one.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "The gold story trophy: finish the final mission of Chapter 5. It cannot be missed if you play to the credits, and there is no difficulty setting to worry about. Because story missions cannot be replayed, use the manual save slots before the endgame if you like keeping a way back. After the credits you land in free roam with everything else still available, so nothing else on the list is locked behind this point.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Breakfast Run, a Chapter 2 mission. It is story-related and cannot be missed — no special action, setup or choice is needed beyond finishing the mission when it appears in the campaign. If you are following the roadmap, it arrives on its own during stage 2.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing The Cartel Heist, a Chapter 3 mission. It cannot be missed: play the campaign and it unlocks as the heist wraps up. No preparation is required, though arriving with decent weapons and armour never hurts in a heist finale.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Child's Play, a Chapter 4 mission. It is unmissable and needs no special approach — finish the mission as part of the story. Like every story trophy here it is hidden on PlayStation until earned, which is why the spoiler setting in this guide masks it until you tick it off.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Headliners, a Chapter 4 mission. It cannot be missed and asks for nothing beyond finishing the mission when the campaign offers it. Keep playing the story in stage 2 of the roadmap and it will pop in sequence with the other chapter trophies.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing VCIA Takedown, a Chapter 4 mission set around Vice City International Airport. It cannot be missed. The airport is also the stage for Catch Me If You Can later — an unscheduled departure in a passenger jet — but that one is a free-roam stunt, not part of this mission.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Story trophy for completing Operation Savage Glory, a Chapter 5 mission. It cannot be missed: finish the mission during the final chapter and the trophy is yours. It is one of the last story trophies before the finale, so by the time it pops you should be thinking about the cleanup stages of the roadmap.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 6,
+   "missable": false,
+   "target": 100,
+   "unit": "% completion",
+   "step": 1,
+   "guide": "The long gold. Reach 100% on the game's own completion tracker (Progress, then Stats, then 100% Completion). The checklist only appears after the story, but everything you did earlier already counts, and nothing on it can be missed. It asks for broad coverage rather than literally everything: for example 300 of the 397 stunts, 200 of 277 vehicles discovered, 100 of 255 animals studied, 70 of 80 challenges and 15 of 18 meditation spots. Work it in stage 6 with the in-game checklist open beside this tracker.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": 250,
+   "unit": "stunts",
+   "step": 1,
+   "guide": "Complete 250 stunts — stunt jumps and similar set pieces scattered across Leonida. PlayStation tracks the count, and there are 397 stunts in total, so you can skip the most awkward third; 300 are needed for 100% completion anyway, which means this silver usually falls out of the A Long Road grind on its own. Use a fast bike or car, approach each ramp square-on, and keep a manual save before remote ones so a bad landing costs seconds, not a drive back.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": 9,
+   "unit": "activity types",
+   "step": 1,
+   "guide": "Try each of the game's 9 activity types once — races, drone races, fishing, the shooting range, arcade games and the rest of Leonida's diversions. You do not need to win or even finish most of them; a single honest attempt at each type registers it. The cheapest path is to sample activities as their icons appear during the story, then check what is left in stage 4 and mop up the stragglers in one circuit of the map.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)"
+   ]
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": 42,
+   "unit": "range gold medals",
+   "step": 1,
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges, spread across 12 ranges. PlayStation tracks your gold count. Learn one weapon class at a time, replay a challenge immediately while the target pattern is fresh, and do not leave a range with silvers outstanding — coming back cold is slower. Accuracy beats speed on most cards: gold scores punish misses more than slow splits. This is a stage 4 project, best done once your weapon handling is warmed up from the story.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": 14,
+   "unit": "drone race locations",
+   "step": 1,
+   "guide": "Win a Top Fun drone race at each of the 14 locations. One win per spot is enough for the trophy — the full set of 42 races only matters for 100% completion. Drone handling is twitchy at first: run a new course once at half throttle to learn the gate order, then attack it. Wins are tracked per location, so mark each finished spot in this tracker as you clear it and work region by region.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": 20,
+   "unit": "different races won",
+   "step": 1,
+   "guide": "Win 20 different races. There are 40 races in the game and winning the same one twice does not add to the count, so variety matters more than mastery: take the easy early races first, bring a vehicle suited to the class, and do not be proud about difficulty assists where the game offers them. PlayStation tracks distinct wins. If a race keeps beating you, move on — there are twice as many races as you need.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 1,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Beat Cal in a fishing challenge. Cal texts you after a Chapter 1 mission and marks his spot with a purple icon; head there and accept the challenge. Fishing is a timing game: keep tension on the line while the fish runs, reel in the slack when it tires, and do not yank against a run or the line goes. It is one of the earliest side trophies available, which is why the roadmap puts it in stage 1.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Complete one arcade game, start to finish, at any arcade cabinet in Leonida. You do not need a high score — a full clear of a single game is enough. Pick the shortest game on offer if several cabinets are around, and treat it as a palate cleanser between grind sessions in stage 4.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)"
+   ]
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "strangers",
+   "stage": 3,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Finish Andy's strand: complete his final mission. Andy is one of the strangers whose missions open as the story progresses, and his chain stays available in free roam — but note that one launch report (TechWiser, via the EGamers.io roundup) says some stranger chains have windows tied to story progress. That claim is single-sourced and unconfirmed, yet the cheap insurance is to work stranger content as it appears rather than banking it all for the endgame. Andy's strand does not count toward the eight strands for Strangers & Freaks.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026",
+    "EGamers.io, GTA 6 Trophy List roundup — reporting TechWiser on stranger-chain windows, Nov 2026"
+   ]
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "strangers",
+   "stage": 3,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Finish Kenton's strand by completing his final mission. Like the other character trophies it is hidden until earned and remains available after the story, but play stranger chains as they unlock where you can — one launch report links some chains to story-progress windows, and that has not been confirmed or refuted yet. Kenton's finale is the whole requirement; there is no score, timer or collectible attached.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026",
+    "EGamers.io, GTA 6 Trophy List roundup — reporting TechWiser on stranger-chain windows, Nov 2026"
+   ]
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "strangers",
+   "stage": 3,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Finish Billy's strand: complete his final mission. Billy's five jobs start at the Thrillbilly Mudclub in Kelly County once you are past a Chapter 2 mission, and they stay open after the story ends, so this one is safe to schedule in stage 3. Billy's strand is also one of the named chains that does not count toward the eight for Strangers & Freaks — it earns this trophy only.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "strangers",
+   "stage": 3,
+   "missable": false,
+   "target": 8,
+   "unit": "stranger strands",
+   "step": 1,
+   "guide": "Complete 8 mission strands for strangers across Leonida. The catch, per launch coverage: not every named stranger counts toward the eight — strands from the likes of Kirk, Kyle, Yago and Pilot Pete count, while the chains behind the separate character trophies (Andy, Billy, Tyrone and others) earn their own trophies instead. Use the in-game tracker to see which strands are registering, and start new strands whenever a stranger icon appears rather than saving them all for cleanup.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "strangers",
+   "stage": 3,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Finish Randy's strand by completing his final mission. It is a hidden trophy that pops at the end of his chain; the missions stay available in free roam, though as with all stranger content the cautious play is to keep up with chains as they appear, because one report ties some chains to story progress. No extra condition — no score attack, no collectible — just see Randy's story through.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026",
+    "EGamers.io, GTA 6 Trophy List roundup — reporting TechWiser on stranger-chain windows, Nov 2026"
+   ]
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "strangers",
+   "stage": 3,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Finish Tyrone's strand by completing his final mission. Tyrone's chain is one of the separate character strands: it earns this trophy but does not count toward the eight strands needed for Strangers & Freaks, so do not rely on it there. Play it as it opens during the story or mop it up in stage 3; it stays available after the credits.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 1,
+   "missable": true,
+   "target": 18,
+   "unit": "meditation spots",
+   "step": 1,
+   "guide": "The one trophy to protect. Meditate at all 18 spots, spread over 10 locations, playing as both Jason and Lucia. PowerPyx flags this as potentially missable: the first spot is offered at home in Chapter 1 and becomes permanently unavailable once that chapter ends, and PowerPyx's own run used it. Nobody has yet confirmed the trophy fails without it — but meditating there costs a minute, so do it. The last spot needs Jason and Lucia together, which only opens after Chapter 2. Two safety nets: 100% completion only asks for 15 of the 18 spots, and using cheats disables trophies, so keep this hunt clean.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "strangers",
+   "stage": 3,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Hunt a unique animal for Bret. Bret's hunting quests open after Chapter 2 and are played as Jason only. Launch coverage is honest that the exact animal has not been confirmed yet, so this guide will not invent one: work through Bret's quest line as it is offered and the unique hunt is its climax. Bring a scoped rifle, take the approach slowly, and keep a manual save before the final hunt in case it goes wrong.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectible",
+   "stage": 5,
+   "missable": false,
+   "target": 3,
+   "unit": "card sets",
+   "step": 1,
+   "guide": "Complete 3 Collectible Card sets. There are 18 sets in the game, so you only need a sixth of the total pool for the trophy — pick the three sets whose cards cluster in regions you have already cleared, and let the rest feed 100% completion later if you go that far. Cards are small and easy to walk past: sweep the buildings you enter during other tasks, and log each finished set in this tracker so you always know which sets are one card from done.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectible",
+   "stage": 5,
+   "missable": false,
+   "target": 100,
+   "unit": "WAiNK locations",
+   "step": 1,
+   "guide": "WAiNK It at 100 locations. The count mixes four kinds of sight: Landmarks (31), Curiosities (35), Sculptures (23) and No Flusher tags, so any blend of them adds up and you never need every one of a single kind. These are photo-op stops: get in the habit of WAiNKing every landmark the story walks you past, and the stage 5 cleanup becomes a pleasant tour instead of a hundred fresh trips. PlayStation tracks the running total.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": 50,
+   "unit": "challenges",
+   "step": 1,
+   "guide": "Complete 50 Challenges. There are 80 in the game and 100% completion wants 70, so this trophy is a waypoint on the A Long Road grind rather than a separate project. Challenges are short, self-contained tests scattered through the world; clear them as their markers appear during the story and activities stages, and check the in-game list in stage 4 to find the cheapest remaining ones near wherever you already are.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Lose a four-star Wanted Level while your partner is with you, and escape the heat. Engineer it deliberately: with Jason and Lucia together, commit something loud in a low-traffic area to reach four stars, then break line of sight and hide somewhere with one entrance to watch — rooftops, alleys and drainage channels all work. The trophy wants the level lost with your partner present, so do not split up or switch away mid-escape.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level in between. The chain is the point: pick three shops in one neighbourhood, rob the first, move straight to the second while the stars are still up, then the third, and only then escape. Going to ground between robberies to let the heat die resets the run. A fast car staged outside the third shop makes the final getaway far less dramatic.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectible",
+   "stage": 5,
+   "missable": false,
+   "target": 100,
+   "unit": "vehicles discovered",
+   "step": 1,
+   "guide": "Discover 100 vehicles by scanning them. There are 277 base models in the game and 100% completion wants 200, so this is another trophy that matures during general play — if you scan every new car, bike, boat and aircraft you climb into from the opening mission onwards. Traffic variety changes by district and time of day, so when the count stalls, tour a different neighbourhood: airports, marinas, farms and rich suburbs all park vehicles the city centre never shows.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activity",
+   "stage": 4,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Set it up rather than hoping for it: fill the Focus meter first, pick a fight with a group that stands close together — a gang operation or a police cordon — and open Focus with an assault rifle already up. Sweep targets centre-mass and move on the moment one drops; five kills inside one activation is about target selection, not aim speed.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Make an unscheduled departure at VCIA: steal a passenger jet parked at a boarding gate, take off, and put about a kilometre between you and the airport. The jet is the hard part — reach the apron, board quickly, and taxi straight to a runway before the response builds. Once airborne and clear, the trophy pops. It is hidden until earned, and entirely a free-roam stunt: no mission offers it to you.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "The description is the hint: it is hot in these Rhinos. Steal a Rhino tank at Mile Zero Air Station and take out enemies from inside it. Expect a heavy response on the way in; the tank itself is the safe room once you are seated. You do not need a rampage — a handful of kills from the cannon with the army around you satisfies it — then abandon the vehicle somewhere quiet and let the heat cool.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 2,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Rob a jewelry store without being detected. The clean route uses the Snap Gun from Yasmani's Chapter 3 jobs, which opens the back door quietly — rob the store on one of those jobs, or return with the tool afterwards. Go at night, move slowly, watch the detection meter rather than the guards, and take only what you can carry in one pass: greed is what gets you seen on the way out.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": 5,
+   "unit": "bank vaults escaped",
+   "step": 1,
+   "guide": "Rob 5 Bank Vaults and escape. There are 8 vaults; they open up alongside an optional Chapter 4 mission, and every vault job brings a four-star response, so stage a fast bike or car before you go in and plan the exit before the entry. A vault robbery you escape from also counts toward A Classic Blitz Play, so this silver quietly does double duty. PlayStation tracks escapes, not attempts — a vault you die in does not count.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Rob an Armored Truck and escape. Armored trucks are the classic roadside score: block it, crack it, grab the cash and be gone before the response converges. The shortcut, per launch coverage: a bank vault job you get away from also counts for this trophy, so if Maximum Withdrawal is already on your route, this bronze may pop without a single truck. Either way, the escape is part of the requirement — losing the heat completes it.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": 52,
+   "unit": "areas explored",
+   "step": 1,
+   "guide": "Explore all of Leonida — clear the fog from the whole map, across all 52 areas PlayStation tracks. Ground vehicles make this a chore; a plane makes it a sightseeing flight. Work the map in strips, coastlines first, then the interior, and drop to low altitude over towns so their area registers. Save it for stage 5, when you are criss-crossing the state for collectibles anyway, and most of the map will already be clear.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": 9,
+   "unit": "gangs robbed",
+   "step": 1,
+   "guide": "Rob an Illegal Operation belonging to each gang — one operation per gang, across all 9 gangs. There are 39 operations in total (100% completion wants them all), but the trophy only needs a single one from each gang's turf. Operations differ in guard count and layout, so scout from a distance, mark the gang in this tracker as you clear it, and by stage 5 your map should show which colours are still missing.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Honest status: unconfirmed. The official description says to enjoy a cocktail with a view on Ocean Beach, but as of this guide's writing neither PowerPyx nor GTABase has pinned down the exact trigger — which bar, which drink, which character, or whether the time of day matters. What to try: visit the Ocean Beach bars with both characters, order a cocktail at a spot overlooking the water, and linger rather than walking away. This guide will not dress a guess up as a method; when the trigger is confirmed, the steps will be simple to add.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Honest status: unconfirmed. The description — smash your way out of a vehicle showroom in classic style — points at driving a car out through a showroom window, a series tradition, but launch coverage has not confirmed which showroom or whether a specific vehicle is involved. Reasonable attempts: enter a vehicle showroom, get into a display car, and drive it straight out through the glass rather than the door. Until a source confirms the exact conditions, treat anything more specific as rumour.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Despite the name, this is a robbery, not a bowling mini-game: rob the Kingpin Bowling gang operation in Port Gellhorn — the Kolt & Associates alley — and then lose the police. It doubles as one of the nine gang operations for Pest Control if that crew is one of your outstanding gangs, so route it that way in stage 5. Clear the building, take what you came for, and break line of sight fast; the trophy completes when the heat is gone.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "The vague description hides a stat trophy: max out the Strength stat for both Jason and Lucia. Working out trains it, and training together raises both characters at once, which halves the work. Weave gym sessions and melee fights into your cleanup routes rather than grinding it in one sitting, and check the stats page to see which of the two is lagging — that is the one to play as while you finish it.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": 500,
+   "unit": "profile-changing actions",
+   "step": 10,
+   "guide": "PlayStation tracks a count to 500: actions that change your Criminal Profile, for better or worse. Ordinary play generates these constantly — crimes, escapes, choices, good deeds — so the count mostly fills itself across a platinum run. One warning from launch coverage: do not push your profile all the way to Irredeemable, because that end of the scale is permanent. If the counter is short late in the run, varied play fills it faster than repeating one action.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Honest status: unconfirmed. All anyone outside the game can honestly say is the official line — Second time's the charm — and that neither PowerPyx nor GTABase had identified the trigger when this guide was written. It smells like a fail-then-succeed trophy: something attempted, failed, and then completed on the second try. If it pops for you during normal play, note what just happened; until a source confirms the trigger, this guide will not invent one.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Honest status: unconfirmed. The description — What the hell just happened? — promises a strange event, and launch coverage has not yet identified which one, or where. Series tradition points at a scripted weird encounter somewhere remote: an odd light, an abandoned place, something out in the swamps or the Keys at night. Explore off the highways during stage 5 cleanup and investigate anything the game frames as unusual. No confirmed steps exist yet, so none are printed here.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": null,
+   "unit": null,
+   "guide": "Honest status: unconfirmed, with a strong hint in the description: bowl 'em over with a melee drive-by. The likely act is knocking someone down with a melee attack from a moving vehicle — but whether a specific target, vehicle or speed matters is not confirmed by launch coverage. Sensible experiments: ride a motorcycle slowly past a pedestrian and swing as you pass. Until a source pins it down, this guide reports the hint and the uncertainty rather than a fake recipe.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": 250000,
+   "unit": "dollars laundered",
+   "step": 5000,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. It is a running total, not a single payment, so every marked-bill job banks progress. Launch coverage names Yasmani as the best-paying contact for it — route your laundering through him where the game lets you choose. Because the money systems interlock, pair this with Treat Yo Self: launder first, then spend the clean money in shops, and both totals climb on the same loop.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": 100000,
+   "unit": "dollars spent",
+   "step": 5000,
+   "guide": "Spend $100,000 across all shops. It is a cumulative total across every store type — clothes, weapons, vehicles, services — so ordinary equipping gets you much of the way. Do not splurge early just for this: stage 5 gives you natural big spends, and the 8 garage properties for Little Boxes cost about $160,000 in total on top. If you are short at the end, vehicle customisation is the fastest honest money sink in the game.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "target": 8,
+   "unit": "garages bought",
+   "step": 1,
+   "guide": "Purchase all 8 garage properties that are for sale, at roughly $160,000 in total. Careful: the 4 garages the story gives you do not count — only the purchasable ones do. Garages are not a luxury on this list: you need free space to register vehicles for On the Spot, so buy them as your income allows during cleanup rather than in one endgame splurge, and let the spending feed Treat Yo Self as you go.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "misc",
+   "stage": 2,
+   "missable": false,
+   "target": 10,
+   "unit": "vehicles registered",
+   "step": 1,
+   "guide": "Register 10 vehicles to the Scooter Bros app. Moses gives you the app in Chapter 2; from then on, vehicles you store can be registered — but you need free garage space for each one, which is the real gate. Register as you acquire during the story instead of hoarding ten cars for stage 5: steal or buy a keeper, garage it, register it, repeat. Ten registrations across a whole playthrough is gentle if you start in stage 2.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation Network, 18 Nov 2026 (names, descriptions, grades, tracked counts)",
+    "GTA Zone, GTA 6 Trophy List — launch coverage reporting PowerPyx and GTABase, Nov 2026"
+   ]
+  }
+ ]
+}

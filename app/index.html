@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Platinum — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="skyline" aria-hidden="true"></div>
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark" aria-hidden="true">LP</div>
+    <div class="brand-text">
+      <h1>Leonida Platinum</h1>
+      <p class="tagline">The GTA VI trophy guide &amp; tracker — all 55 official PlayStation 5 trophies, a cited guide for each, and a six-stage road to the platinum. Works offline; progress never leaves this browser.</p>
+    </div>
+  </div>
+  <div class="progress-box">
+    <svg class="ring" viewBox="0 0 84 84" width="84" height="84" role="img" aria-label="Overall progress">
+      <circle class="ring-track" cx="42" cy="42" r="36"></circle>
+      <circle class="ring-fill" id="ringFill" cx="42" cy="42" r="36"></circle>
+      <text class="ring-text" id="ringText" x="42" y="47" text-anchor="middle">0%</text>
+    </svg>
+    <div class="progress-meta">
+      <p id="progress" class="progress-line">0 of 55 earned</p>
+      <ul class="grade-counts" id="gradeCounts"></ul>
+    </div>
+  </div>
+</header>
+
+<nav class="views" aria-label="Views">
+  <button type="button" class="view-tab is-active" data-view="checklist">Checklist</button>
+  <button type="button" class="view-tab" data-view="roadmap">Roadmap to the Platinum</button>
+  <button type="button" class="view-tab" data-view="missables">Missables <span class="tab-badge">1</span></button>
+</nav>
+
+<section class="controls" id="controls">
+  <label class="ctl">Grade
+    <select id="grade">
+      <option value="all">All grades</option>
+      <option value="platinum">Platinum</option>
+      <option value="gold">Gold</option>
+      <option value="silver">Silver</option>
+      <option value="bronze">Bronze</option>
+    </select>
+  </label>
+  <div class="pills" id="kindPills" role="group" aria-label="Filter by kind"></div>
+  <label class="ctl grow">Search
+    <input id="search" type="search" placeholder="Trophy, mission, character…">
+  </label>
+  <label class="ctl switch"><input id="spoiler" type="checkbox" checked> Spoiler protection</label>
+  <label class="ctl switch"><input id="hideEarned" type="checkbox"> Hide earned</label>
+  <button id="export" type="button" class="btn">Export progress</button>
+  <label class="btn file-btn">Import progress <input id="import" type="file" accept="application/json"></label>
+</section>
+
+<main>
+  <section id="view-checklist" class="view">
+    <div class="layout">
+      <div class="list-col">
+        <p class="list-note" id="listNote"></p>
+        <ul class="rows" id="rows"></ul>
+      </div>
+      <aside class="detail" id="detail" aria-live="polite"></aside>
+    </div>
+  </section>
+
+  <section id="view-roadmap" class="view" hidden>
+    <div class="roadmap-head">
+      <h2>Roadmap to the Platinum</h2>
+      <p>One playthrough, roughly 200 hours, no difficulty settings and no online trophies. The order below is built from the official descriptions: what each chapter hands you, which counts to start early, and the one spot that cannot wait.</p>
+    </div>
+    <div id="roadmap"></div>
+  </section>
+
+  <section id="view-missables" class="view" hidden>
+    <div class="roadmap-head">
+      <h2>Missables &amp; warnings</h2>
+      <p>Launch coverage agrees on a short list: exactly one trophy is suspected missable, and everything else — every story trophy and every line of the 100% checklist — can still be earned after the credits.</p>
+    </div>
+    <div id="missables"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Trophy names, descriptions and grades are the official PlayStation 5 list (18 Nov 2026), shown as published. Guides are written for this app and cite their sources beside each trophy. No Rockstar Games artwork or logo is used; the look is our own. Progress is stored only in your browser (localStorage) — export it to keep a backup.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
